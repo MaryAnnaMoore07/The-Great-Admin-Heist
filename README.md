@@ -36,16 +36,16 @@ ____
 ## **2. 🧠 Threat Actor Overview**
 
 Group: The Phantom Hackers
-Motivation: Financial and espionage
-Tactics Used:
-Masquerading as legitimate AV software
 
+Motivation: Financial and espionage
+
+Tactics Used: 
+
+Masquerading as legitimate AV software
 
 Scheduled tasks for persistence
 
-
 Registry modifications
-
 
 Command line process injection
 _____
